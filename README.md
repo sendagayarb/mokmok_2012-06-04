@@ -8,7 +8,7 @@ mokmok_2012-06-04
 
 # 告知
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
-* [Sendagaya.rb #6](http://www.zusaar.com/event/308054)
+* [Sendagaya.rb #6 参加者募集ページ](http://www.zusaar.com/event/308054)
 
 # 流れ
 * 19:00 Heroku Dev Center読書会
