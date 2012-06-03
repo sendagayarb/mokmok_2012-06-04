@@ -1,4 +1,4 @@
-mokmok_yyyy-mm-dd
+mokmok_2012-06-04
 =================
 
 ![sendagaya.rb logo](http://ppworks.info/images/sendagayarb100x100.png)
@@ -8,7 +8,7 @@ mokmok_yyyy-mm-dd
 
 # 告知
 * [facebookグループ](https://www.facebook.com/groups/132324356892674)
-* [Sendagaya.rb #](http://www.zusaar.com/event/)
+* [Sendagaya.rb #6](http://www.zusaar.com/event/308054)
 
 # 流れ
 * 19:00 Heroku Dev Center読書会
@@ -22,8 +22,16 @@ mokmok_yyyy-mm-dd
 # 参加者
 - ppworks[すたっふぅー]
   - ポジションペーパー:http://ppworks.info
-- fukajun[すたっふぅー]
-  - ポジションペーパー:http://kitbc.s41.xrea.com/main/
+- iR3
+  - ポジションペーパー:
+- tyabe
+  - ポジションペーパー:
+- Sosuke Kimura
+  - ポジションペーパー:
+- iwhurtafly
+  - ポジションペーパー:
+- kitatuba
+  - ポジションペーパー:
 
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
