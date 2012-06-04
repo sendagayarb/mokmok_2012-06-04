@@ -32,6 +32,10 @@ mokmok_2012-06-04
   - ポジションペーパー:
 - kitatuba
   - ポジションペーパー:
+- kei_q
+  - ポジションペーパー:
+- pwim
+  - ポジションペーパー:
 
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
