@@ -37,5 +37,8 @@ mokmok_2012-06-04
 - pwim
   - ポジションペーパー:
 
+# 質問したいこと
+- 今日fukajunは？
+
 # KPT
 http://kpt-it.herokuapp.com/6ef3521b4e7396f956e574972947fba1
