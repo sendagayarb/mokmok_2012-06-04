@@ -36,6 +36,8 @@ mokmok_2012-06-04
   - ポジションペーパー:https://gist.github.com/3fea8dcb2689dcd1ba98
 - pwim
   - ポジションペーパー:
+- kysnm
+  - ポジションペーパー:
 
 # 質問したいこと
 - 今日fukajunは？
