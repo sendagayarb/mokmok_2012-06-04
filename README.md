@@ -35,7 +35,7 @@ mokmok_2012-06-04
 - kei_q
   - ポジションペーパー:https://gist.github.com/3fea8dcb2689dcd1ba98
 - pwim
-  - ポジションペーパー:
+  - ポジションペーパー:http://www.tokyodev.com
 - kysnm
   - ポジションペーパー:
 
