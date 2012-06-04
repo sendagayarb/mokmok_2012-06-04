@@ -2,7 +2,8 @@
 - 上から順にできるところまで
   - sublime textの試用
   - 今日やった内容をblogに書く
-  - haskell-platform 2012.2.0.0がでたので入れる
+  - coronaSDKのlocal browserつくる http://developer.anscamobile.com/resources/apis/
+  - haskell-platform 2012.2.0.0がでたので入れてyesodあたりを試す
   - ios developerの2つ目のアプリケーション読む
 
 
