@@ -4,13 +4,16 @@
 
 ## もくもくの記録
 ### 今日できたこと
-*
+* https://github.com/herokaijp/devcenter/wiki/git の日本語訳
+全然途中 https://gist.github.com/2868129
 
 ### 今日学んだこと
-*
+* Gitの参考資料 http://git-scm.com/book/ch2-5.html
+
 ### 今日ハマったこと
-*
- $ pwd
+* 日本語訳は難しい
+
+
 
 ## 個人のKPT
 ###Keep よかったー
